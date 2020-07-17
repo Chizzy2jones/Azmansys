@@ -1,0 +1,45 @@
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\bin\Debug\CUESYSv.01.exe.config
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\bin\Debug\CUESYSv.01.exe
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\bin\Debug\CUESYSv.01.pdb
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\bin\Debug\Google.Protobuf.dll
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\bin\Debug\MySql.Data.dll
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\bin\Debug\Google.Protobuf.xml
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\bin\Debug\MySql.Data.xml
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\obj\Debug\CUESYSv.01.csprojAssemblyReference.cache
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\obj\Debug\CUESYSv._01.Form1.resources
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\obj\Debug\CUESYSv._01.Properties.Resources.resources
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.GenerateResource.cache
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.CopyComplete
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\obj\Debug\CUESYSv.01.exe
+C:\Users\Alan\Documents\GitHub\CUEsys\CUESYSv.01\CUESYSv.01\obj\Debug\CUESYSv.01.pdb
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\bin\Debug\CUESYSv.01.exe.config
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\bin\Debug\CUESYSv.01.exe
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\bin\Debug\CUESYSv.01.pdb
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\obj\Debug\CUESYSv.01.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\obj\Debug\CUESYSv._01.Form1.resources
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\obj\Debug\CUESYSv._01.Properties.Resources.resources
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.CopyComplete
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\obj\Debug\CUESYSv.01.exe
+C:\Users\user\Desktop\Azmansys v1.0 Source\CUESYSv.01\obj\Debug\CUESYSv.01.pdb
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\bin\Debug\CUESYSv.01.exe.config
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\bin\Debug\CUESYSv.01.exe
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\bin\Debug\CUESYSv.01.pdb
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\obj\Debug\CUESYSv.01.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\obj\Debug\CUESYSv._01.Form1.resources
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\obj\Debug\CUESYSv._01.Properties.Resources.resources
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.CopyComplete
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\obj\Debug\CUESYSv.01.exe
+C:\Users\user\Desktop\Azmansys v1.0 Source - Madukac\CUESYSv.01\obj\Debug\CUESYSv.01.pdb

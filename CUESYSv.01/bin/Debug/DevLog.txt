@@ -1,0 +1,27 @@
+17-Jul-20 12:51:51 PM --- resetControls triggered
+17-Jul-20 12:51:51 PM --- Login controls visible
+17-Jul-20 12:51:51 PM --- Focus changed to Program started
+17-Jul-20 12:51:51 PM --- Program started
+17-Jul-20 12:51:55 PM --- Login button clicked
+17-Jul-20 12:51:55 PM --- resetControls triggered
+17-Jul-20 12:51:55 PM --- SELECT * FROM `tblflights` WHERE `bookingDateTime` >= CURDATE() sql run
+17-Jul-20 12:51:57 PM --- Focus changed to landing
+17-Jul-20 12:51:57 PM --- Login success for user admin
+17-Jul-20 12:51:57 PM --- enter key detected in tbUserPass
+17-Jul-20 12:51:59 PM --- booking doubleclicked
+17-Jul-20 12:51:59 PM --- flightID
+17-Jul-20 12:52:00 PM --- resetControls triggered
+17-Jul-20 12:52:00 PM --- SELECT * FROM `tblflights` sql run
+17-Jul-20 12:52:01 PM --- Focus changed to view flights
+17-Jul-20 12:52:06 PM --- 1
+17-Jul-20 12:52:07 PM --- resetControls triggered
+17-Jul-20 12:52:07 PM --- Focus changed to edit flight
+17-Jul-20 12:52:16 PM --- update new flight
+17-Jul-20 12:52:18 PM --- resetControls triggered
+17-Jul-20 12:52:18 PM --- SELECT * FROM `tblflights` sql run
+17-Jul-20 12:52:18 PM --- Focus changed to view flights
+17-Jul-20 12:52:20 PM --- booking doubleclicked
+17-Jul-20 12:52:20 PM --- flightID
+17-Jul-20 12:52:22 PM --- resetControls triggered
+17-Jul-20 12:52:22 PM --- SELECT * FROM `tblflights` sql run
+17-Jul-20 12:52:23 PM --- Focus changed to view flights
